@@ -110,7 +110,7 @@ header li {
 }
 
 #container-projetos {
-    background: var(--cor1) url('../img/binarios.jpg') center / cover no-repeat fixed;
+    background: var(--cor1) url('../img/binarios.jpg') center / cover no-repeat scroll;
     min-height: 80vh;
 }
 
