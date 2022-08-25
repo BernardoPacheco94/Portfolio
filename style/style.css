@@ -11,6 +11,10 @@
     --transparencia-clara: rgba(255, 255, 255, 0.605);
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 nav {
     background: black url('../img/gb-nav-2.jpg') center right / cover no-repeat fixed;   
 }
