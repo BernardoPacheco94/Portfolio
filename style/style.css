@@ -126,9 +126,13 @@ header li {
     background-color: var(--cor0);
 }
 
+.container-footer{
+    background-image: linear-gradient(to right, var(--cor0) 60%, var(--cor1));
+}
+
 footer li {
     display: inline;
-    margin: 0px 50px
+    margin: 15px 25px
 }
 
 
